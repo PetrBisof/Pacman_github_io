@@ -25,7 +25,7 @@ body {
 .stage {
   width: 1020px;
   height: 510px;
-  background-image: url("/img/tile.png");
+  background-image: url("../img/tile.png");
   position: relative; }
 
 .entity {
@@ -42,30 +42,30 @@ body {
     -ms-user-select: none;
     user-select: none; }
   .entity--wall {
-    background-image: url("/img/wall.png"); }
+    background-image: url("../img/wall.png"); }
   .entity--apple {
-    background-image: url("/img/apple.png"); }
+    background-image: url("../img/apple.png"); }
   .entity--bomb {
-    background-image: url("/img/bomb.png"); }
+    background-image: url("../img/bomb.png"); }
   .entity--tomb {
-    background-image: url("/img/tomb.png"); }
+    background-image: url("../img/tomb.png"); }
 
 .pacboy-active-light {
-  background-image: url("/img/pacboy-active-light.png"); }
+  background-image: url("../img/pacboy-active-light.png"); }
 
 .pacboy-active-medium {
-  background-image: url("/img/pacboy-active-medium.png"); }
+  background-image: url("../img/pacboy-active-medium.png"); }
 
 .pacboy-active-dark {
-  background-image: url("/img/pacboy-active-dark.png"); }
+  background-image: url("../img/pacboy-active-dark.png"); }
 
 .pacgirl-active-light {
-  background-image: url("/img/pacgirl-active-light.png"); }
+  background-image: url("../img/pacgirl-active-light.png"); }
 
 .pacgirl-active-medium {
-  background-image: url("/img/pacgirl-active-medium.png"); }
+  background-image: url("../img/pacgirl-active-medium.png"); }
 
 .pacgirl-active-dark {
-  background-image: url("/img/pacgirl-active-dark.png"); }
+  background-image: url("../img/pacgirl-active-dark.png"); }
 
 /*# sourceMappingURL=main.css.map */
